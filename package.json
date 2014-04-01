@@ -1,0 +1,26 @@
+{
+  "name": "fbcp",
+  "version": "0.0.0",
+  "description": "node-openvg-canvas on smaller screens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luismreis/node-fbcp.git"
+  },
+  "keywords": [
+    "openvg",
+    "raspberry-pi",
+    "rpi",
+    "canvas",
+    "fbtft"
+  ],
+  "author": "Luis Reis <luis@luismreis.com> (http://luismreis.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luismreis/node-fbcp/issues"
+  },
+  "homepage": "https://github.com/luismreis/node-fbcp"
+}
